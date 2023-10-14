@@ -1,5 +1,7 @@
 # Tutorial_gRPC
 
+https://www.youtube.com/watch?v=Z6qnRS36EgE
+
 
 [grpc - console server](https://yogingang.tistory.com/227)
 
@@ -10,13 +12,13 @@
 [C# Grpc With AspNet6](https://yogingang.tistory.com/230)
 
 
-¾ĞÃàÀ» ÇØÁ¦ÇÑÈÄ ¾Æ·¡ÀÇ ÆÄÀÏÀ» Go¼³Ä¡ Æú´õ¿¡ º¹»çÇÑ´Ù.
+ì••ì¶•ì„ í•´ì œí•œí›„ ì•„ë˜ì˜ íŒŒì¼ì„ Goì„¤ì¹˜ í´ë”ì— ë³µì‚¬í•œë‹¤.
 
 grpcurl.exe
 
 C:\Program Files\Go\bin
 
-È¯°æº¯¼ö Æú´õ¿¡ º¹»çÇÔ.
+í™˜ê²½ë³€ìˆ˜ í´ë”ì— ë³µì‚¬í•¨.
 
 
 ![image](https://github.com/krdn/Tutorial_gRPC/assets/5511718/0c0bdd41-f8a6-48d8-9072-34af6923aef8)
